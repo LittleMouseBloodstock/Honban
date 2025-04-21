@@ -2,6 +2,3 @@ streamlit
 pandas
 requests
 dotenv
-time
-urllib.parse
-os
